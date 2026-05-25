@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Банско">
+  <rect width="900" height="600" fill="#dff3ff"/>
+  <path d="M0 390 L175 170 L310 345 L470 125 L690 390 L900 210 L900 600 L0 600Z" fill="#6b7280"/>
+  <path d="M175 170 L230 240 L145 230Z M470 125 L545 220 L430 205Z M900 210 L900 320 L830 285Z" fill="#ffffff"/>
+  <path d="M0 455 C155 420 300 460 455 425 C625 385 760 425 900 390 L900 600 L0 600Z" fill="#f8fafc"/>
+  <rect x="145" y="375" width="220" height="130" fill="#8b5a2b"/>
+  <path d="M120 375 L255 285 L390 375Z" fill="#4b2e18"/>
+  <rect x="510" y="350" width="245" height="155" fill="#9a642f"/>
+  <path d="M480 350 L632 250 L785 350Z" fill="#4b2e18"/>
+  <rect x="210" y="420" width="50" height="85" fill="#fef3c7"/>
+  <rect x="615" y="410" width="60" height="95" fill="#fef3c7"/>
+  <text x="54" y="82" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="42" font-weight="700">Банско</text>
+</svg>

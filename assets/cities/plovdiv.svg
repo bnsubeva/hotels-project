@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Пловдив">
+  <rect width="900" height="600" fill="#f8d6a4"/>
+  <circle cx="730" cy="105" r="58" fill="#f59e0b"/>
+  <path d="M0 390 C140 320 260 350 390 300 C530 245 650 260 900 190 L900 600 L0 600Z" fill="#b76f42"/>
+  <path d="M0 450 C190 390 330 410 470 365 C650 305 760 330 900 285 L900 600 L0 600Z" fill="#7f5539"/>
+  <rect x="60" y="330" width="120" height="190" fill="#dca15d"/>
+  <rect x="205" y="285" width="140" height="235" fill="#b85d45"/>
+  <rect x="375" y="310" width="120" height="210" fill="#f4bd72"/>
+  <rect x="535" y="260" width="135" height="260" fill="#d98256"/>
+  <rect x="700" y="340" width="125" height="180" fill="#c26d4b"/>
+  <path d="M45 330 L120 260 L195 330Z" fill="#8f3f2e"/>
+  <path d="M190 285 L275 220 L360 285Z" fill="#6f3d2d"/>
+  <path d="M520 260 L602 195 L685 260Z" fill="#733d2c"/>
+  <path d="M120 518 C210 455 310 455 400 518" fill="none" stroke="#f6e7c8" stroke-width="28"/>
+  <path d="M430 518 C520 455 620 455 710 518" fill="none" stroke="#f6e7c8" stroke-width="28"/>
+  <text x="54" y="82" fill="#5b2d20" font-family="Arial, sans-serif" font-size="42" font-weight="700">Пловдив</text>
+</svg>

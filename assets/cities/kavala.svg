@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Кавала">
+  <rect width="900" height="600" fill="#bde0fe"/>
+  <circle cx="735" cy="105" r="55" fill="#ffd166"/>
+  <path d="M0 360 C170 305 280 350 430 300 C590 245 720 300 900 230 L900 600 L0 600Z" fill="#8a6f4d"/>
+  <path d="M0 445 C180 405 330 455 500 415 C675 375 790 420 900 385 L900 600 L0 600Z" fill="#1d8aa8"/>
+  <path d="M0 520 C160 480 330 525 500 485 C660 450 800 485 900 455 L900 600 L0 600Z" fill="#f3d59a"/>
+  <rect x="125" y="310" width="90" height="105" fill="#ffffff"/>
+  <rect x="235" y="285" width="100" height="130" fill="#fef3c7"/>
+  <rect x="360" y="320" width="85" height="95" fill="#ffffff"/>
+  <rect x="610" y="340" width="135" height="70" fill="#f8fafc"/>
+  <path d="M100 410 C230 345 360 345 490 410" fill="none" stroke="#e7c16d" stroke-width="20"/>
+  <text x="54" y="82" fill="#075985" font-family="Arial, sans-serif" font-size="42" font-weight="700">Кавала</text>
+</svg>

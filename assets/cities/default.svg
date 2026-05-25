@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Хотел">
+  <rect width="900" height="600" fill="#dbeafe"/>
+  <circle cx="740" cy="110" r="58" fill="#fbbf24"/>
+  <path d="M0 390 C170 315 300 350 455 295 C610 240 760 300 900 230 L900 600 L0 600Z" fill="#94a3b8"/>
+  <path d="M0 455 C190 405 330 455 500 410 C680 365 790 410 900 380 L900 600 L0 600Z" fill="#64748b"/>
+  <rect x="180" y="280" width="540" height="240" rx="12" fill="#ffffff"/>
+  <rect x="240" y="335" width="70" height="70" fill="#93c5fd"/>
+  <rect x="365" y="335" width="70" height="70" fill="#93c5fd"/>
+  <rect x="490" y="335" width="70" height="70" fill="#93c5fd"/>
+  <rect x="610" y="335" width="70" height="70" fill="#93c5fd"/>
+  <rect x="405" y="430" width="90" height="90" rx="45" fill="#334155"/>
+  <text x="54" y="82" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="42" font-weight="700">Хотел</text>
+</svg>

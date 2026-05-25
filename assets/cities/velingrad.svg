@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Велинград">
+  <rect width="900" height="600" fill="#d8f3dc"/>
+  <circle cx="745" cy="105" r="54" fill="#ffd166"/>
+  <path d="M0 370 C165 280 290 340 430 265 C560 195 700 260 900 170 L900 600 L0 600Z" fill="#74a57f"/>
+  <path d="M0 430 C180 350 330 410 480 335 C620 270 760 330 900 260 L900 600 L0 600Z" fill="#3d7a57"/>
+  <rect x="120" y="355" width="650" height="155" rx="18" fill="#f8fafc"/>
+  <rect x="165" y="390" width="80" height="80" rx="40" fill="#8ecae6"/>
+  <rect x="285" y="390" width="80" height="80" rx="40" fill="#8ecae6"/>
+  <rect x="405" y="390" width="80" height="80" rx="40" fill="#8ecae6"/>
+  <path d="M570 420 C600 375 650 375 680 420 C650 465 600 465 570 420Z" fill="#90be6d"/>
+  <path d="M190 320 C180 285 215 285 205 250 M315 320 C305 285 340 285 330 250 M440 320 C430 285 465 285 455 250" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity=".8"/>
+  <text x="54" y="82" fill="#24523a" font-family="Arial, sans-serif" font-size="42" font-weight="700">Велинград</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Слънчев бряг">
+  <rect width="900" height="600" fill="#9bd8ff"/>
+  <circle cx="710" cy="105" r="58" fill="#ffcf33"/>
+  <path d="M0 340 C170 300 280 350 450 310 C630 270 760 310 900 275 L900 600 L0 600Z" fill="#24a6c8"/>
+  <path d="M0 465 C170 430 330 475 500 435 C680 395 790 430 900 405 L900 600 L0 600Z" fill="#f7d48b"/>
+  <rect x="105" y="315" width="115" height="155" rx="8" fill="#ffffff"/>
+  <rect x="250" y="280" width="135" height="190" rx="8" fill="#fef3c7"/>
+  <rect x="420" y="325" width="115" height="145" rx="8" fill="#ffffff"/>
+  <rect x="590" y="295" width="145" height="175" rx="8" fill="#fef3c7"/>
+  <path d="M95 510 L185 405 L275 510" fill="#ef4444"/>
+  <path d="M95 510 H275" stroke="#7c2d12" stroke-width="12"/>
+  <text x="54" y="82" fill="#075985" font-family="Arial, sans-serif" font-size="42" font-weight="700">Слънчев бряг</text>
+</svg>

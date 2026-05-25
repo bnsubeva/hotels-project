@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Истанбул">
+  <rect width="900" height="600" fill="#fed7aa"/>
+  <circle cx="745" cy="105" r="55" fill="#fb923c"/>
+  <path d="M0 405 C170 360 300 410 455 375 C630 335 760 370 900 335 L900 600 L0 600Z" fill="#1f8aa5"/>
+  <path d="M0 495 C165 455 330 505 510 465 C670 430 790 465 900 435 L900 600 L0 600Z" fill="#0e6378"/>
+  <rect x="245" y="315" width="310" height="120" fill="#d9a441"/>
+  <path d="M400 205 C475 220 520 260 530 315 H270 C280 260 325 220 400 205Z" fill="#b87b25"/>
+  <circle cx="400" cy="230" r="82" fill="#d69b2d"/>
+  <rect x="170" y="250" width="34" height="185" fill="#f8fafc"/>
+  <rect x="600" y="235" width="34" height="200" fill="#f8fafc"/>
+  <path d="M187 190 L210 250 H164Z M617 175 L640 235 H594Z" fill="#d69b2d"/>
+  <path d="M115 460 C245 420 350 420 480 460 C610 500 740 500 860 460" fill="none" stroke="#fef3c7" stroke-width="12"/>
+  <text x="54" y="82" fill="#7c2d12" font-family="Arial, sans-serif" font-size="42" font-weight="700">Истанбул</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="София">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#8fc5ff"/>
+      <stop offset="1" stop-color="#eaf5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#sky)"/>
+  <circle cx="740" cy="105" r="54" fill="#ffd166"/>
+  <path d="M0 390 C160 310 240 330 380 260 C520 190 650 245 900 160 L900 600 L0 600Z" fill="#5f8f6b"/>
+  <path d="M0 430 C210 360 330 380 500 320 C670 260 760 300 900 245 L900 600 L0 600Z" fill="#3f6f58"/>
+  <rect x="90" y="330" width="720" height="190" rx="8" fill="#d9b56f"/>
+  <rect x="150" y="270" width="130" height="250" fill="#c99f55"/>
+  <rect x="620" y="270" width="130" height="250" fill="#c99f55"/>
+  <path d="M215 205 L290 270 L140 270Z" fill="#5c7c8c"/>
+  <path d="M685 205 L760 270 L610 270Z" fill="#5c7c8c"/>
+  <rect x="350" y="245" width="200" height="275" fill="#e6c67f"/>
+  <path d="M450 145 L560 245 L340 245Z" fill="#496d83"/>
+  <circle cx="450" cy="150" r="48" fill="#d7a33d"/>
+  <rect x="185" y="360" width="45" height="70" fill="#fff0c7"/>
+  <rect x="670" y="360" width="45" height="70" fill="#fff0c7"/>
+  <rect x="415" y="350" width="70" height="170" rx="35" fill="#8b6338"/>
+  <text x="54" y="82" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">София</text>
+</svg>
