@@ -7,8 +7,6 @@ const DB_HOST = 'localhost';
 const DB_NAME = 'hotels_app';
 const DB_USER = 'root';
 const DB_PASS = '';
-const DEFAULT_ADMIN_HASH = '$2y$10$k1F7l98IPg7UpOQVyxu1x.3x8.KwzkEmU50x1PO6toOhvWQt8H1oa';
-const DEFAULT_USER_HASH = '$2y$10$RSAs37WEBWOoLyreO8C2M.aZekkKL/WYpSDVMFU/V8RYs5QR5bfcC';
 
 function db(): PDO
 {

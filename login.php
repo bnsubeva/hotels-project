@@ -24,21 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $stmt->execute([$username]);
         $user = $stmt->fetch();
 
-        $defaultAdminLogin = $user
-            && $user['username'] === 'admin'
-            && $user['password_hash'] === DEFAULT_ADMIN_HASH
-            && $password === 'admin123';
-        $defaultUserLogin = $user
-            && $user['username'] === 'user'
-            && $user['password_hash'] === DEFAULT_USER_HASH
-            && $password === 'user123';
-
-        if ($user && (password_verify($password, $user['password_hash']) || $defaultAdminLogin || $defaultUserLogin)) {
-            if (($defaultAdminLogin || $defaultUserLogin) && !password_verify($password, $user['password_hash'])) {
-                $update = db()->prepare('UPDATE users SET password_hash = ? WHERE id = ?');
-                $update->execute([password_hash($password, PASSWORD_DEFAULT), $user['id']]);
-            }
-
+        if ($user && password_verify($password, $user['password_hash'])) {
             $_SESSION['user_id'] = (int) $user['id'];
             $_SESSION['username'] = $user['username'];
             $_SESSION['role'] = $user['role'] ?? 'user';
