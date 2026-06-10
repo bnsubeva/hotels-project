@@ -11,7 +11,7 @@ PHP/MySQL приложение за курсова задача на тема х
 
 ## Стартиране
 
-1. Копирайте проекта в `C:\xampp\htdocs\hotels-project` или `C:\xampp_new\htdocs\hotels-project`.
+1. Копирайте проекта в `C:\xampp\htdocs\hotels-project`
 2. Стартирайте Apache и MySQL от XAMPP.
 3. Импортирайте `schema.sql` в phpMyAdmin или MySQL.
 4. Отворете `http://localhost/hotels-project/`.
